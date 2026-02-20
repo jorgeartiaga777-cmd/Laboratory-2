@@ -1,8 +1,8 @@
 # Laboratory-2
-# Part 1: Basic Calculator
+# Basic Calculator
 print("--- Simple Calculator ---")
 
-# Converting input to int to perform calculations 
+ 
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
